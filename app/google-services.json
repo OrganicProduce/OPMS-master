@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "393049880218",
+    "firebase_url": "https://opms-6b06e.firebaseio.com",
+    "project_id": "opms-6b06e",
+    "storage_bucket": "opms-6b06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393049880218:android:eefa9b6d22852024",
+        "android_client_info": {
+          "package_name": "com.priyanka.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393049880218-gkudntqv7a1f730n5858ckv7cd9drcnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyanka.myapplication",
+            "certificate_hash": "a3134c05bc5c82f649bbfa94d7147dce630a2f0b"
+          }
+        },
+        {
+          "client_id": "393049880218-g75j7n32q4otu5pgd7jc6flp78jn486f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "393049880218-g75j7n32q4otu5pgd7jc6flp78jn486f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ImzP5CAfzB0i-oS6l0F0uXyrnCh3K5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393049880218-g75j7n32q4otu5pgd7jc6flp78jn486f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
